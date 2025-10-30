@@ -19,7 +19,7 @@ Install the package from npm:
 npm install @hnsanjay/ui-library
 ```
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ⚡ Vite – Fast build tool for React
 🎨 Tailwind CSS – Utility-first styling
@@ -27,5 +27,8 @@ npm install @hnsanjay/ui-library
 🧰 Vitest – Testing framework for components
 ☁️ Vercel – Deployed live demo
 
-📤 Deployment
+## 📤 Deployment
 The Storybook is deployed using Vercel.
+
+## Screenshots
+![UI Library Preview](https://github.com/Sanjay173-design/React-UI-Component-Library/blob/8abc466550557ba2f35552ad52c23df8b1ad272a/image.png)
