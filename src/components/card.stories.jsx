@@ -30,4 +30,3 @@ CustomClass.args = {
   children: "This card has extra padding and border.",
   className: "border-indigo-300 bg-indigo-50",
 };
-//save
