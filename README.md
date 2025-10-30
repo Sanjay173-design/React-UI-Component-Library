@@ -1,4 +1,4 @@
-# React UI Component Library
+# ⚡React UI Component Library
 
 A reusable **React UI component library** built with **Vite**, **Tailwind CSS**, and **Storybook**.  
 It includes customizable components like buttons, cards, modals, inputs, and more — ready to be used across projects or published to npm.
@@ -41,7 +41,7 @@ The Storybook is deployed using Vercel.
 ## 2. Modal and Checkbox
 ![UI Library Preview](https://github.com/Sanjay173-design/React-UI-Component-Library/blob/1a4848303d552f7277043aaa2a11b1330a8f5f11/2img.png)
 ![UI Library Preview](https://github.com/Sanjay173-design/React-UI-Component-Library/blob/1a4848303d552f7277043aaa2a11b1330a8f5f11/2imgext.png)
-## 2. Select and Tab 
+## 3. Select and Tab 
 ![UI Library Preview](https://github.com/Sanjay173-design/React-UI-Component-Library/blob/1a4848303d552f7277043aaa2a11b1330a8f5f11/3img.png)
 
 
