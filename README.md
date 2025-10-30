@@ -17,19 +17,15 @@ Install the package from npm:
 
 ```bash
 npm install @hnsanjay/ui-library
+```
 
 🛠️ Tech Stack
 
 ⚡ Vite – Fast build tool for React
-
 🎨 Tailwind CSS – Utility-first styling
-
 🧪 Storybook – UI component documentation and testing
-
 🧰 Vitest – Testing framework for components
-
 ☁️ Vercel – Deployed live demo
 
 📤 Deployment
-
-The Storybook is deployed using Vercel
+The Storybook is deployed using Vercel.
