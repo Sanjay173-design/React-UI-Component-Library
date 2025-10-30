@@ -22,9 +22,13 @@ npm install @hnsanjay/ui-library
 ## 🛠️ Tech Stack
 
 ⚡ Vite – Fast build tool for React
+
 🎨 Tailwind CSS – Utility-first styling
+
 🧪 Storybook – UI component documentation and testing
+
 🧰 Vitest – Testing framework for components
+
 ☁️ Vercel – Deployed live demo
 
 ## 📤 Deployment
@@ -34,10 +38,10 @@ The Storybook is deployed using Vercel.
 ![UI Library Preview](https://github.com/Sanjay173-design/React-UI-Component-Library/blob/8abc466550557ba2f35552ad52c23df8b1ad272a/image.png)
 ## 1. Button and Input 
 ![UI Library Preview](https://github.com/Sanjay173-design/React-UI-Component-Library/blob/e22359525d7bf5bf4781c42080d6104308e1c754/1img.png)
-## 2. modal and Checkbox
-![UI Library Preview]()
-![UI Library Preview]()
+## 2. Modal and Checkbox
+![UI Library Preview](https://github.com/Sanjay173-design/React-UI-Component-Library/blob/1a4848303d552f7277043aaa2a11b1330a8f5f11/2img.png)
+![UI Library Preview](https://github.com/Sanjay173-design/React-UI-Component-Library/blob/1a4848303d552f7277043aaa2a11b1330a8f5f11/2imgext.png)
 ## 2. Select and Tab 
-![UI Library Preview]()
+![UI Library Preview](https://github.com/Sanjay173-design/React-UI-Component-Library/blob/1a4848303d552f7277043aaa2a11b1330a8f5f11/3img.png)
 
 
