@@ -30,5 +30,14 @@ npm install @hnsanjay/ui-library
 ## 📤 Deployment
 The Storybook is deployed using Vercel.
 
-## Screenshots
+## 📸 Screenshots
 ![UI Library Preview](https://github.com/Sanjay173-design/React-UI-Component-Library/blob/8abc466550557ba2f35552ad52c23df8b1ad272a/image.png)
+## 1. Button and Input 
+![UI Library Preview](https://github.com/Sanjay173-design/React-UI-Component-Library/blob/e22359525d7bf5bf4781c42080d6104308e1c754/1img.png)
+## 2. modal and Checkbox
+![UI Library Preview]()
+![UI Library Preview]()
+## 2. Select and Tab 
+![UI Library Preview]()
+
+
